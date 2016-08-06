@@ -1,0 +1,34 @@
+_repo: Between-Whiles_10756
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jackson, Helen Hunt
+    aliases:
+    - Hunt, Helen Maria Fiske
+    - Jackson, Helen Maria Fiske Hunt
+    - Jackson, H. H. (Helen Hunt)
+    - Holm, Saxe
+    birthdate: 1830
+    deathdate: 1885
+    gutenberg_agent_id: '1030'
+    url: http://www.gutenberg.org/2009/agents/1030
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10756'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The inn of the Golden Pear -- The mystery of Wilhelm Rütter -- Little
+  Bel's supplement -- The captain of the "Heather Bell" -- Dandy Steve -- The prince's
+  little sweetheart.
+title: Between Whiles
+url: http://www.gutenberg.org/ebooks/10756
